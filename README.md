@@ -25,7 +25,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 1. Use os prompts de roteiro no `chagpt`
 - 🤖 2. Use os prompts de diagramação no `powerpoint`
 - 🤖 3. Use os prompts de artes no `copilot`
-- 🤖 4. Use os prompts de tranformar palavras digitadas em vooz `copilot`
+- 🤖 4. Use os prompts de tranformar palavras digitadas em voz `ttsfree`
 
 ## 👨‍💻 Expert
 
