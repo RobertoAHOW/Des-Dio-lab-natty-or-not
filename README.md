@@ -53,4 +53,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ---
 
-⌨️ com 💜 por [Roberto Costa](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Roberto Costa](https://github.com/RobertoAHOW)
